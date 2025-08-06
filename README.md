@@ -1,3 +1,7 @@
+This is the first React I ever maid, the simplest one, but where I could learn some valuable lessons.
+
+<img width="600" height="329" alt="image" src="https://github.com/user-attachments/assets/1f8f9424-c810-48d8-a5f3-bef31041d234" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
